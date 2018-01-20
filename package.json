@@ -1,0 +1,33 @@
+{
+  "name": "htmltocomponent",
+  "version": "0.0.1",
+  "description": "A command line tool which converts html file to a component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "htc": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyuanhai/htmltocomponent.git"
+  },
+  "keywords": [
+    "html",
+    "component",
+    "angular",
+    "web",
+    "react"
+  ],
+  "author": "Yuanhai Shi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiyuanhai/htmltocomponent/issues"
+  },
+  "homepage": "https://github.com/shiyuanhai/htmltocomponent#readme",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "htmltojsx": "^0.3.0"
+  }
+}
