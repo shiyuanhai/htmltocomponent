@@ -1,5 +1,5 @@
 # htmltocomponent
-A command line tool which converts html file to a component
+A command line tool which converts html partial file to a component(React for now).
 
 ## Installation
 
